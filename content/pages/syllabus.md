@@ -35,15 +35,84 @@ I consider each of these requirements in determining your grade. If you cannot b
 
 Approximate valuation for grading purposes:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Comparative Essay, 10 Pages | 20% |
-| Paper 1, 5 Pages | 10% |
-| Paper 2, 5 Pages | 10% |
-| Two Short Presentations (On a Play and on a Segment of the Secondary Reading) | 10% |
-| Class Performance (Including Contribution to Group Production) | 10% |
-| Attendance and Active Participation (In Class, Watching Films, Making Online Contributions, Doing the Reading in a Timely Fashion) | 20% |
-| Final Examination | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Comparative Essay, 10 Pages
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1, 5 Pages
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2, 5 Pages
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Short Presentations (On a Play and on a Segment of the Secondary Reading)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Performance (Including Contribution to Group Production)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and Active Participation (In Class, Watching Films, Making Online Contributions, Doing the Reading in a Timely Fashion)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Examination
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 I reserve the right to alter this weighting somewhat in exceptional circumstances; often this works to your advantage.
 
